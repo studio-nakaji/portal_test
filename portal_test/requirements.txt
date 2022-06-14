@@ -1,2 +1,2 @@
-streamlit==1.7.0
+streamlit==1.10.0
 click<=8.0.4
